@@ -1,6 +1,6 @@
 # EDA-with-Python
 
-Data Analysis on the Movie Kaggle dataset.
+Data Analysis on a Kaggle dataset.
 
 Project Steps
 
